@@ -1,0 +1,51 @@
+{
+  "name": "building_apps_react_flux",
+  "version": "1.0.0",
+  "description": "Building Applications with React and Flux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonygallina1/Building_Apps_React_Flux.git"
+  },
+  "author": "Anthony Gallina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthonygallina1/Building_Apps_React_Flux/issues"
+  },
+  "homepage": "https://github.com/anthonygallina1/Building_Apps_React_Flux#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.5",
+    "browserify": "^11.0.1",
+    "flux": "^2.0.3",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-eslint": "^0.15.0",
+    "gulp-open": "^1.0.0",
+    "jquery": "^2.1.4",
+    "lodash": "^4.11.1",
+    "node": "0.0.0",
+    "object-assign": "^4.0.1",
+    "react": "^0.13.3",
+    "react-router": "^0.13.3",
+    "reactify": "^1.1.1",
+    "toastr": "^2.1.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "React",
+    "JSX",
+    "ESlint",
+    "Bundle",
+    "Gulp",
+    "NodeJS",
+    "Browserify",
+    "React",
+    "Router",
+    "Flux"
+  ]
+}
